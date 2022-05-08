@@ -1,0 +1,9 @@
+Bag report structure
+
+1. Summary
+2. Description
+3. Steps to reproduce
+4. ER/AR
+   -expected result
+   -actual result
+
